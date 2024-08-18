@@ -1,6 +1,4 @@
-# Matéria de Inteligência Computacional 
-
-# Busca Gulosa para o Problema de Arad a Bucareste
+# Busca em Largura para o Problema de Arad a Bucareste
 
 ## Descrição
 
@@ -15,10 +13,15 @@ Entender as etapas de modelagem do problema de melhor rota entre cidades;
 ## Algoritmo
 
 Componentes de um problema 
+
 ► 1. Estado inicial; 
+
 ► 2. Estado final (objetivo); 
+
 ► 3. Espaço de estados; 
+
 ► 4. Ações para passar de um estado para outro; 
+
 ► 5. Solução (caminho que leva do estado inicial ao estado final).
 
 ## Estrutura do Projeto
@@ -35,4 +38,4 @@ Componentes de um problema
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/samerzito/nome-do-repositorio.git
+   git clone https://github.com/samerzito/Algoritmo-Busca-Largura.git
