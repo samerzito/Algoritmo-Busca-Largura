@@ -38,7 +38,7 @@ Componentes de um problema
 
 - **`src/`**: Código-fonte do projeto.
 	- **`Principal.java`**: Implementação principal do algoritmo de busca gulosa.
-	- **`Busca Gulosa.java`**: Implementação principal do algoritmo de busca gulosa.
+	- **`BuscaLargura.java`**: Implementação principal do algoritmo de busca gulosa.
 	- **`Grafos.java`**: Implementação principal do algoritmo de busca gulosa.
 	- **`Vertice.java`**: Implementação principal do algoritmo de busca gulosa.
 	- **`VetorOrdenado.java`**: Implementação principal do algoritmo de busca gulosa.
